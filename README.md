@@ -1,5 +1,5 @@
 # 👋Hi,I'm Fares:
-am a software engineer who is obsessed with dotnet framework <br>studing in faculty of computers and data science at Alexandria University<br>I thing a lot of problem can be solved with programming and making management systems<br>i like to explore more technologies even if it out of more comfort zone 
+💻am a software engineer who is obsessed with dotnet framework <br>🏫studing in faculty of computers and data science at Alexandria University<br>🌠I thing a lot of problem can be solved with programming and making management systems<br>🌱i like to explore more technologies even if it out of more comfort zone 
 
 
 ## 🌐 Socials:
