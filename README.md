@@ -1,5 +1,5 @@
 # 👋Hi,I'm Fares:
-💻am a software engineer who is obsessed with dotnet framework <br>🏫studing in faculty of computers and data science at Alexandria University<br>🌠I thing a lot of problem can be solved with programming and making management systems<br>🌱i like to explore more technologies even if it out of more comfort zone 
+💻am a software engineer who is obsessed with dotnet framework <br>🏫studing in faculty of computers and data science at Alexandria University<br>🌠I think a lot of problem can be solved with programming and making management systems<br>🌱I like to explore more technologies even if it out of more comfort zone 
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
